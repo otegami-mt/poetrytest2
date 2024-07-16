@@ -5,6 +5,6 @@ poetry run python poetrytest2
 ```
 OR
 ```
-poetry shell
+poetry shell #仮想環境に切り替えます
 python poetrytest2
 ```
