@@ -8,3 +8,4 @@ OR
 poetry shell #仮想環境に切り替えます
 python poetrytest2
 ```
+！ここを追加！
